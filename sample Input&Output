@@ -1,0 +1,8 @@
+How many elements are u going to enter?: 5
+Enter 5 elements: 2 5 9 4 32
+Order of Sorted elements:  2 4 5 9 32
+___________________________________________
+
+How many elements are u going to enter?: 8
+Enter 8 elements: 20 35 41 10 28 95 32 11
+Order of Sorted elements:  10 11 20 28 32 35 41 95
